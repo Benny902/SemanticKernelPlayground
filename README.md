@@ -11,14 +11,9 @@ A .NET 9 console application that implements a chat interface using Microsoft's 
 1. Configure Azure OpenAI credentials in `appsettings.Development.json`:
 
 
-
-<br><br><br>
-
-#
-#
-#
-
-<br><br><br>
+---
+---
+---
 
 # Enhanced Functionalities
 
