@@ -36,6 +36,7 @@ A .NET 9 console application that implements a chat interface using Microsoft's 
    ```json
    {
      "ModelName": "gpt-4.1", // or your model
+     "EmbeddingModel": "text-embedding-3-large",
      "Endpoint": "https://your-openai-endpoint.openai.azure.com/",
      "ApiKey": "your-api-key"
    }
